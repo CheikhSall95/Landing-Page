@@ -125,8 +125,7 @@ ul {
         font-style: light italic;
         padding-top: 60px;
       }
-      .text4
-      {
+      .text4    {
         font-size: 36px;
         color: #1f2937;
         font-style: light italic;
@@ -146,7 +145,69 @@ ul {
         background-color: #e5e7eb;
         padding-bottom: 80px;
 
+
+        
+      }
+
+
+      
+      .section5 {
+ 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex:1;
+        background-color:white;
+        height: 400px;
+      }
+
+      .signup {
+ 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-basis: 1200px;
+        height: 60px;
+        gap: 190px;
+        background-color:#3882f6;
+        height: 200px;
+        border: solid #3882f6;
+        border-radius: 25px;
       }
         /**  {
     border:solid red;
     }*/
+
+        .text5  {
+        font-size: 26px;
+        color: white;
+        font-weight: bold;
+
+      }
+
+      .text6  {
+        font-size: 16px;
+        font-weight: lighter;
+
+      }
+      .button2 {
+        border-radius: 4px;
+        background-color: #3882f6;
+        color: white;
+        padding: 10px 25px;
+        font-size: 16px;
+        cursor: pointer;
+
+        border: solid white;
+    
+      }
+
+      .footer  {
+        display: flex;
+        font-size: 16px;
+        color: white;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+      }
+
