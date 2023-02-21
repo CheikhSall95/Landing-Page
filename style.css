@@ -90,7 +90,7 @@ ul {
         padding-bottom: 140px;
       }
     .text2 {
-        font-size: 40px;
+        font-size: 36px;
         margin-top: 30px;
         margin-bottom: 20px;
         font-weight: bold;
@@ -118,7 +118,35 @@ ul {
       }
 
 
+      .text3
+      {
+        font-size: 36px;
+        color: #1f2937;
+        font-style: light italic;
+        padding-top: 60px;
+      }
+      .text4
+      {
+        font-size: 36px;
+        color: #1f2937;
+        font-style: light italic;
+        font-weight: bold;
+        padding-top: 60px;
+        display: flex;
+        align-items: flex-end;
+      }
 
+
+      .section4 {
+ 
+        display: flex;
+        justify-content: center;
+        flex:1;
+        gap: 20px;
+        background-color: #e5e7eb;
+        padding-bottom: 80px;
+
+      }
         /**  {
     border:solid red;
     }*/
